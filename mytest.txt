@@ -1,1 +1,2 @@
 insert one;
+insert two;
