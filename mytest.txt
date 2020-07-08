@@ -1,2 +1,0 @@
-insert one;
-insert two;
